@@ -4,7 +4,7 @@ Compare features of best-in-show dog breeds.
 
 To see the R Markdown Notebook output, download the HTML file and view it in a web browser:
 
-best_in_show_dog.nb
+best_in_show_dog.nb.html
 
 
 Or, to view the output more quickly, you can view a PDF of the file (though with significantly worse quality):
